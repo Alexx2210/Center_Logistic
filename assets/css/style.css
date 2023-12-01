@@ -53,7 +53,10 @@ ol {
     align-items: center;
     justify-content: space-between;
     width: 131px;
-    
+    text-decoration: none;
+}
+
+.logo span {
     font-family: 'PT Sans', sans-serif;
     font-size: 16px;
     font-weight: 900;
@@ -63,12 +66,10 @@ ol {
 
 .dark {
     margin: 0 auto;
-    color: #000;
 }
 
-.logo{
-    padding-right: 5px;
-    margin-right: 10px;
+.dark span {
+    color: #000;
 }
 
 .text-center {
