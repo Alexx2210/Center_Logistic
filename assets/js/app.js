@@ -224,9 +224,9 @@ document.addEventListener('DOMContentLoaded', () => {
         changeSlideLeft();
     });
 
-    setInterval(() => {
-        changeSlideRight();
-    }, 4000);
+    // setInterval(() => {
+    //     changeSlideRight();
+    // }, 4000);
 
     // 2 Слайдер. Реализован с помощью Swiper.js
     let swiper = new Swiper('.mySwiper', {
