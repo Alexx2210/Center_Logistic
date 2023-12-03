@@ -4,7 +4,7 @@ body {
     background-color: #fff;
 
     font-family: 'PT Sans', sans-serif;
-    font-size: 16px;
+    font-size: 22px;
     line-height: 1.4;
     color: #585858;
     -webkit-font-smoothing: antialiased;
@@ -318,7 +318,7 @@ body.show-nav .header {
 }
 
 .intro__countries {
-    font-size: 16px;
+    font-size: 18px;
     color: #fff;
 }
 
@@ -381,7 +381,7 @@ body.show-nav .header {
 }
 
 .request-form__text {
-    font-size: 16px;
+    font-size: 18px;
     color: #fff;
     line-height: 1.4;
 }
@@ -407,7 +407,7 @@ body.show-nav .header {
     border-bottom: 1px solid rgba(255, 255, 255, 0.25);
 
     font-family: 'PT Sans', sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     color: #fff;
 
     transition: border-color 0.1s linear;
@@ -470,7 +470,7 @@ body.show-nav .header {
     padding: 15px 45px;
 
     font-family: 'PT Sans', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.1;
     color: #fff;
     font-weight: 700;
@@ -603,14 +603,14 @@ body.show-nav .header {
 
 .serices__text {
     margin-bottom: 20px;
-    font-size: 16px;
+    font-size: 22px;
     line-height: 1.4;
     color: #585858;
 }
 
 .services__link {
     display: inline-block;
-    font-size: 16px;
+    font-size: 20px;
     color: #004af2;
     text-decoration: none;
 
@@ -674,10 +674,14 @@ body.show-nav .header {
     min-height: 47px;
     padding-top: 5px;
 
-    background: url('../img/heart.svg') no-repeat left 19px top;
+    /*    background: url('../img/heart.svg') no-repeat left 19px top;*/
 
-    font-size: 18px;
+    font-size: 20px;
     color: #464646;
+}
+
+.clients-love span {
+    color: #ff2c2c;
 }
 
 /* Reviews */
@@ -734,19 +738,19 @@ body.show-nav .header {
 }
 
 .reviews__name {
-    font-size: 18px;
+    font-size: 22px;
     color: #2c2c2c;
     font-weight: 900;
 }
 
 .reviews__company {
-    font-size: 16px;
+    font-size: 18px;
     color: #2c2c2c;
 }
 
 .reviews__content {
     color: #585858;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 1.8;
 }
 
@@ -763,6 +767,7 @@ body.show-nav .header {
 
 .benefits__col {
     width: 50%;
+    margin-left: 10px;
 }
 
 .benefits-list {
@@ -811,14 +816,14 @@ body.show-nav .header {
 .benefits-list__title {
     margin-bottom: 12px;
     font-family: 'Lato', sans-serif;
-    font-size: 21px;
+    font-size: 22px;
     line-height: 1.2;
     color: #2c2c2c;
     font-weight: 900;
 }
 
 .benefits-list__text {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 1.4;
     color: #585858;
 }
@@ -847,19 +852,19 @@ body.show-nav .header {
     margin-bottom: 5px;
     color: #2c2c2c;
     font-family: 'Lato', sans-serif;
-    font-size: 18px;
+    font-size: 22px;
     line-height: 1.2;
     font-weight: 900;
 }
 
 .team__prof {
     margin-bottom: 11px;
-    font-size: 16px;
+    font-size: 20px;
     color: #585858;
 }
 
 .team__contacts {
-    font-size: 14px;
+    font-size: 18px;
     line-height: 1.2;
     color: #585858;
 }
@@ -939,7 +944,7 @@ body.show-nav .header {
 }
 
 .mission__subtitle {
-    font-size: 21px;
+    font-size: 22px;
     font-weight: 400;
     color: #585858;
 }
@@ -994,14 +999,14 @@ body.show-nav .header {
 .articles__text {
     margin-bottom: 15px;
 
-    font-size: 16px;
+    font-size: 20px;
     color: #585858;
 }
 
 .articles__date {
     display: block;
 
-    font-size: 12px;
+    font-size: 16px;
     color: #6e6e6e;
 }
 
@@ -1021,7 +1026,7 @@ body.show-nav .header {
 .footer__contacts {
     margin: 25px 0;
 
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 700;
     text-align: center;
     color: #585858;
@@ -1042,7 +1047,7 @@ body.show-nav .header {
 }
 
 .footer__nav {
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .footer__nav a {
@@ -1120,7 +1125,7 @@ body.show-nav .header {
 }
 
 .modal__text {
-    font-size: 16px;
+    font-size: 18px;
     color: #2c2c2c;
     text-align: center;
 }
@@ -1137,13 +1142,13 @@ body.show-nav .header {
     margin-bottom: 10px;
 
     font-family: 'Lato', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 900;
     color: #2c2c2c;
 }
 
 .modal__contacts {
-    font-size: 14px;
+    font-size: 16px;
     color: #2c2c2c;
     font-style: normal;
 }
@@ -1416,7 +1421,7 @@ body.show-nav .header {
 
     /*  Intro  */
     .intro__title {
-        font-size: 70px;
+        font-size: 90px;
     }
 
     .intro__title-amp {
@@ -1474,11 +1479,11 @@ body.show-nav .header {
     }
 
     .mission__title {
-        font-size: 24px;
+        font-size: 32px;
     }
 
     .mission__subtitle {
-        font-size: 18px;
+        font-size: 20px;
     }
 
     /*  Articles  */
@@ -1504,8 +1509,7 @@ body.show-nav .header {
     .main {
         flex-direction: column;
     }
-
-    .main__col {
+.main__col {
         width: 100%;
     }
 
@@ -1513,11 +1517,23 @@ body.show-nav .header {
     .request-form--right {
         margin: 30px auto 0;
     }
+    
+    /*  Clients  */
+    .clients-love {
+        display: block;
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    
+    .center-block {
+        text-align: center;
+
+    }
 }
 
 @media (max-width: 575px) {
     .intro__title {
-        font-size: 60px;
+        font-size: 75px;
     }
 
     .intro__title-amp {
@@ -1572,11 +1588,6 @@ body.show-nav .header {
         margin: 0 auto;
     }
 
-    .clients-love {
-        display: block;
-        margin-left: 0;
-        margin-top: 20px;
-    }
 
     /*  Mission  */
     .mission {
@@ -1585,15 +1596,15 @@ body.show-nav .header {
     }
 
     .mission-title {
-        font-size: 40px;
+        font-size: 65px;
     }
 
     .mission__title {
-        font-size: 20px;
+        font-size: 30px;
     }
 
     .mission__subtitle {
-        font-size: 16px;
+        font-size: 20px;
     }
 
     /*  Footer  */
