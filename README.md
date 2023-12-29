@@ -8,7 +8,7 @@
 
 ## Просмотр
 
-Сайт развернут на GitHub Pages. (https://alexx2210.github.io/Center_Logistic/)
+Сайт развернут на GitHub Pages. [Center Logistic на GitHub Pages](https://alexx2210.github.io/Center_Logistic/)
 
 ## Требования
 
